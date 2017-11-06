@@ -1,0 +1,29 @@
+global:
+  version: 1.0
+  css: 
+    base: 
+      https://necolas.github.io/normalize.css/7.0.0/normalize.css: {type: external}
+      css/base.css: {} #parametros q puede recibir la hoja de estilo
+    theme:
+      css/theme.css: {}
+  js:
+    js/clase2.js: {}
+
+  regions:
+    page_top: Page top
+    header: Header
+    banner: Banner
+    help: Help
+    sidebar_first: Sidebar first
+    content: Content
+    highlighted: Highlighted
+    sidebar_second: Sidebar second
+    featured_first: Featured first
+    featured_second: Featured second
+    featured_third: Featured third
+    footer_first: Footer first
+    footer_second: Footer second
+    footer_third: Footer third
+    footer_fourth: Footer fourth
+    footer: Footer
+    page_bottom: Page bottom

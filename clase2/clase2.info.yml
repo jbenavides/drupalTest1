@@ -1,0 +1,8 @@
+name: Clase 2 - Drupal Theming
+type: theme
+description: Mi primer tema con Drupal 8
+version: 1.0
+core: 8.x
+
+libraries: 
+  - clase2/global
